@@ -4,6 +4,9 @@
 **Address:** 1900 Fort Meyer Dr. Arlington, VA 22209    
 **Subway:** Rosslyn Station - Blue/Orange/Silver    
 
+**Depart:** Friday Morning (Jan 1)  
+**Return:** Monday Evening (Jan 4)  
+
 **Metro Card Office:** 600 5th Street, NW, Washington, DC   
 **Subway:** Gallery Place Chinatown Station - Green/Red/Yellow or Judiciary Square Metro Station - Red   
 
