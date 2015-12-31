@@ -42,8 +42,8 @@ Pentagon 9/11 Memorial
 Arlington Memorial   
 DEA Museum - https://www.deamuseum.org/  
 
-**Added**
-Gallaudet University  
+**Added**  
+Gallaudet University    
 National Arboretum  
 Adams Morgan  
 
