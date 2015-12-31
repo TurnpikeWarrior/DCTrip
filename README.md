@@ -41,3 +41,12 @@ Botanic Garden - https://www.usbg.gov/
 Pentagon 9/11 Memorial   
 Arlington Memorial   
 DEA Museum - https://www.deamuseum.org/  
+
+**Added**
+Gallaudet University  
+National Arboretum  
+Adams Morgan  
+
+**Schedule**  
+Friday - MTA, Gallaudet University, National Arboretum  
+Monday - Georgetown, Adams Morgan
