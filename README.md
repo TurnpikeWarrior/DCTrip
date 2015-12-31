@@ -46,6 +46,7 @@ DEA Museum - https://www.deamuseum.org/
 Gallaudet University    
 National Arboretum  
 Adams Morgan  
+Georgetown  
 
 **Schedule**  
 Friday - MTA, Gallaudet University, National Arboretum  
