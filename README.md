@@ -9,7 +9,7 @@
 
 ### - Visit Site -   
 **National Mall (Central)**   
-Smithsonian National Museum of Natural History   
+Smithsonian National Museum of Natural History - http://www.mnh.si.edu/  
 Smithsonian National Air and Space Museum   
 U.S. Holocaust Memorial Museum   
 Hirshhorn Museum   
