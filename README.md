@@ -1,6 +1,6 @@
 # DCTrip
 
-*Hotel:* Holiday Inn Rosslyn @ Key Bridge   
+**Hotel:** Holiday Inn Rosslyn @ Key Bridge   
 Address: 1900 Fort Meyer Dr. Arlington, VA 22209    
 Subway: Rosslyn Station - Blue/Orange/Silver    
 
