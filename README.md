@@ -49,4 +49,5 @@ Adams Morgan
 
 **Schedule**  
 Friday - MTA, Gallaudet University, National Arboretum  
+Sat/Sun - Museums & Sightseeings  
 Monday - Georgetown, Adams Morgan
