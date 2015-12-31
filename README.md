@@ -10,28 +10,28 @@
 ### - Visit Site -   
 **National Mall (Central)**   
 Smithsonian National Museum of Natural History - http://www.mnh.si.edu/  
-Smithsonian National Air and Space Museum   
-U.S. Holocaust Memorial Museum   
-Hirshhorn Museum   
-National Archive   
-*Newseum   
+Smithsonian National Air and Space Museum - https://airandspace.si.edu/  
+U.S. Holocaust Memorial Museum - http://www.ushmm.org/  
+Hirshhorn Museum - http://hirshhorn.si.edu/collection/home/  
+National Archive - http://www.archives.gov/  
+*Newseum - http://www.newseum.org/  
 
 **(West)**   
-Renwick Gallery   
+Renwick Gallery - http://renwick.americanart.si.edu/  
+*National Geographic Museum - http://events.nationalgeographic.com/national-geographic-museum/  
 White House   
-National Geographic Museum   
 Washington Monument    
 Lincoln Memorial   
 
 **(East)**   
 Library of Congress   
-Botanic Garden   
+Botanic Garden - https://www.usbg.gov/    
 
 **(North)**   
-International Spy Museum   
-National Building Museum   
+*International Spy Museum - http://www.spymuseum.org/  
+*National Building Museum - http://www.nbm.org/  
 
 **(Hotel)**   
 Pentagon 9/11 Memorial   
 Arlington Memorial   
-DEA Museum    
+DEA Museum - https://www.deamuseum.org/  
